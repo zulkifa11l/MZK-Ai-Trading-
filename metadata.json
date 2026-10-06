@@ -1,0 +1,6 @@
+{
+  "name": "MZK AI Trading",
+  "description": "AI-powered crypto market analysis and paper-trading assistant for BTC/USDT and altcoins with multi-model AI signals, live technical indicators, and simulated execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
